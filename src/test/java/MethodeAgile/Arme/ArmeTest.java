@@ -1,4 +1,4 @@
-package MethodeAgile.Arme.tests;
+package MethodeAgile.Arme;
 
 import static org.junit.jupiter.api.Assertions.*;
 
